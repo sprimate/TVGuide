@@ -1,0 +1,161 @@
+{
+	"HBO" : {
+		"id" : "HBO",
+		"url" : "http://xfinitytv.comcast.net/live/network/HBO"
+	},
+	"Showtime" : {
+		"id" : "SHOHD",
+		"url" : "http://xfinitytv.comcast.net/live/network/Showtime"
+	},
+	"Showtime2" : {
+		"id" : "SHO2XE",
+		"url" : "http://xfinitytv.comcast.net/live/network/Showtime2"
+	},
+	"Showtime Beyond" : {
+		"id" : "SHBY-E",
+		"url" : "http://xfinitytv.comcast.net/live/network/ShowtimeBeyond"
+	},
+	"Showcase" : {
+		"id" : "SHO3XE",
+		"url" : "http://xfinitytv.comcast.net/live/network/Showcase"
+	},
+	"Showtime Extreme" : {
+		"id" : "SHOX-E",
+		"url" : "http://xfinitytv.comcast.net/live/network/ShowtimeExtreme"
+	},
+	"Starz" : {
+		"id" : "STZHD",
+		"url" : "http://xfinitytv.comcast.net/live/network/Starz"
+	},
+	"Starz Edge" : {
+		"id" : "STRZED",
+		"url" : "http://xfinitytv.comcast.net/live/network/StarzEdge"
+	},
+	"Starz In Black" : {
+		"id" : "STRZBK",
+		"url" : "http://xfinitytv.comcast.net/live/network/StarzInBlack"
+	},
+	"Starz Kids And Family" : {
+		"id" : "STRZFK",
+		"url" : "http://xfinitytv.comcast.net/live/network/StarzKidsAndFamily"
+	},
+	"Starz Comedy" : {
+		"id" : "STRZCM",
+		"url" : "http://xfinitytv.comcast.net/live/network/StarzComedy"
+	},
+	"Palladia" : {
+		"id" : "PALLADIA",
+		"url" : "http://xfinitytv.comcast.net/live/network/Palladia"
+	},
+	"ESPN" : {
+		"id" : "ESPN",
+		"url" : "http://xfinitytv.comcast.net/live/network/espn"
+	},
+	"TNT" : {
+		"id" : "TNT", 
+		"url" : "http://xfinitytv.comcast.net/live/network/TNT"
+	},
+	"SyFi" : {
+		"id" : "SCFI-E",
+		"url" : "http://xfinitytv.comcast.net/live/network/Syfy"
+	},	
+	"AMC" : {
+		"id" : "AMCALL",
+		"url" : "http://xfinitytv.comcast.net/live/network/AMC"
+	},
+	"FX" : {
+		"id" : "FX-E",
+		"url" : "http://xfinitytv.comcast.net/live/network/FX"
+	},
+	"FXX" : {
+		"id" : "FXX",
+		"url" : "http://xfinitytv.comcast.net/live/network/FXX"
+	},
+	"Nickelodeon" : {
+		"id" : "NIC-E",
+		"url" : "http://xfinitytv.comcast.net/live/network/Nickelodeon"
+	},
+	"ESPN2" : {
+		"id" : "ESPN2",
+		"url" : "http://xfinitytv.comcast.net/live/network/ESPN2"
+	},
+	"ESPN3" : {
+		"id" : "ESPN3",
+		"url" : "http://xfinitytv.comcast.net/live/network/ESPN3"
+	},
+	"Disney Channel" : {
+		"id" : "DIS-E",
+		"url" : "http://xfinitytv.comcast.net/live/network/DisneyChannel"
+	},
+	"Disney XD" : {
+		"id" : "DISNEYXD",
+		"url" : "http://xfinitytv.comcast.net/live/network/DisneyXD"
+	},
+	"USA" : {
+		"id" : "USA-E",
+		"url" : "http://xfinitytv.comcast.net/live/network/USA"
+	},
+	"TNT" : {
+		"id" : "TNT-E",
+		"url" : "http://xfinitytv.comcast.net/live/network/TNT"
+	},
+
+	"SPIKE" : {
+		"id" : "SPIKE",
+		"url" : "http://xfinitytv.comcast.net/live/network/SPIKE"
+	},
+	"TBS" : {
+		"id" : "TBS",
+		"url" : "http://xfinitytv.comcast.net/live/network/TBS"
+	},
+	"Animal Planet" : {
+		"id" : "ANIMAL",
+		"url" : "http://xfinitytv.comcast.net/live/network/AnimalPlanet"
+	},
+	"Comedy Central" : {
+		"id" : "CMDY-E",
+		"url" : "http://xfinitytv.comcast.net/live/network/ComedyCentral"
+	},
+	"IFC" : {
+		"id" : "IFC",
+		"url" : "http://xfinitytv.comcast.net/live/network/IFC"
+	},
+	"NBC" : {
+		"id" : "NBC",
+		"url" : "http://www.nbc.com/live",
+		"width" : 788,
+		"height" : 450
+	},
+	"ABC" : {
+		"id" : "ABC",
+		"url" : "http://abc.go.com/watch-live"
+	},
+	"Fox Sports 1" : {
+		"id" : "FOXSPT1",
+		"url" : "http://xfinitytv.comcast.net/live/network/FoxSports1"
+	},
+	"Bravo" : {
+		"id" : "BRVO",
+		"url" : "http://xfinitytv.comcast.net/live/network/Bravo"
+	},
+	"Sundance" : {
+		"id" : "SUN",
+		"url" : "http://xfinitytv.comcast.net/live/network/SundanceTV"
+	},
+	"E" : {
+		"id" : "ETV-HD",
+		"url" : "http://xfinitytv.comcast.net/live/network/E"
+	},
+	"MTV" : {
+		"id" : "MTVHD",
+		"url" : "http://xfinitytv.comcast.net/live/network/MTV"
+	},
+	"VH1" : {
+		"id" : "VH1HD",
+		"url" : "http://xfinitytv.comcast.net/live/network/VH1"
+	},
+	"BET" : {
+		"id" : "BET",
+		"url" : "http://xfinitytv.comcast.net/live/network/BET"
+	}
+}
